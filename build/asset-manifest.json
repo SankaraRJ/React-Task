@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc6a71a8.css",
+    "main.js": "/static/js/main.2a76fef1.js",
+    "static/media/img-3.png": "/static/media/img-3.b6119e142fc84b7372e1.png",
+    "static/media/img-1.png": "/static/media/img-1.bc7e186dd8761999a18f.png",
+    "static/media/Rectangle 142777.png": "/static/media/Rectangle 142777.07d80072b1bd7b5a9ae2.png",
+    "static/media/s2.png": "/static/media/s2.20fe2f74a89854e29a39.png",
+    "static/media/s1.png": "/static/media/s1.b3b18e7afe0c49865413.png",
+    "static/media/s4.png": "/static/media/s4.6d6631e9cd2772b42a01.png",
+    "static/media/s3.png": "/static/media/s3.05109ebac7ba27c40996.png",
+    "static/media/machine.png": "/static/media/machine.25a07d3f2e2831456338.png",
+    "static/media/b-2.png": "/static/media/b-2.a470293f58f021f97f92.png",
+    "static/media/b-6.png": "/static/media/b-6.14f48790fddcdc952365.png",
+    "static/media/b-4.png": "/static/media/b-4.621e2651bb8f86222b0b.png",
+    "static/media/b-5.png": "/static/media/b-5.44595762de3b6d7a0bae.png",
+    "static/media/bc-1.png": "/static/media/bc-1.1b96a75070bc47685ce5.png",
+    "static/media/b-3.png": "/static/media/b-3.84e61c313a2ee160f28e.png",
+    "static/media/card-5.png": "/static/media/card-5.83ec1227fb3a6647c358.png",
+    "static/media/card-7.png": "/static/media/card-7.3fdc846fd1ac51a73ebf.png",
+    "static/media/card-8.png": "/static/media/card-8.a02f17d5a7c618e5bbe5.png",
+    "static/media/card-4.png": "/static/media/card-4.ec1a8534fc55688b6af5.png",
+    "static/media/card-2.png": "/static/media/card-2.13b7a837a8fdee886506.png",
+    "static/media/card-1.png": "/static/media/card-1.c9559aa5dfee23c3517d.png",
+    "static/media/card-9.png": "/static/media/card-9.f7766b4b49aee524a73b.png",
+    "static/media/card-3.png": "/static/media/card-3.6bfc31e85dcd58c52cc7.png",
+    "static/media/card-6.png": "/static/media/card-6.cf3b73999e89463bca0d.png",
+    "static/media/m7.png": "/static/media/m7.d4878f1a2ada4cb43a32.png",
+    "index.html": "/index.html",
+    "main.fc6a71a8.css.map": "/static/css/main.fc6a71a8.css.map",
+    "main.2a76fef1.js.map": "/static/js/main.2a76fef1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc6a71a8.css",
+    "static/js/main.2a76fef1.js"
+  ]
+}
